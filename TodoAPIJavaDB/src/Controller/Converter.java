@@ -20,6 +20,7 @@ public class Converter {
 		}
 		return jsonArray;
 	}
+	
 
 	public static String convertToXML(ResultSet resultSet) throws Exception {
 		StringBuffer xmlArray = new StringBuffer("<results>");

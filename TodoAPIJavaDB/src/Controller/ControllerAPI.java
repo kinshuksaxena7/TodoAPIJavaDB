@@ -15,6 +15,7 @@ public class ControllerAPI {
 		}
 		
 		client1.closeConnection();
+		
 	}
 
 }
